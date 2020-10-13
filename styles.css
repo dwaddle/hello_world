@@ -10,3 +10,8 @@
     font-weight: 300;
     padding: 2px;
 }
+h2{
+    text-align: center;
+    color: black;
+    background-color: blue;
+}
